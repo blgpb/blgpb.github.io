@@ -1,13 +1,13 @@
 backend:
   name: github
-  repo: blgpb/wentaoyu.github.io
+  repo: blgpb/blgpb.github.io
   branch: main
   base_url: https://api.netlify.com
   auth_endpoint: auth
 media_folder: "public/uploads"
 public_folder: "/uploads"
 
-site_url: https://blgpb.github.io/wentaoyu.github.io/
+site_url: https://blgpb.github.io/
 logo_url: https://astro.build/favicon.svg
 
 collections:
