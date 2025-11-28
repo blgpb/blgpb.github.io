@@ -13,8 +13,8 @@ abstract: "To enhance the feature representation ability, in this paper, a GCN m
 topics:
   - "Graph Neural Networks"
   - "Feature Extraction"
-# awards:
-#   - "ESI Highly Cited"
+awards:
+  - "ESI Highly Cited"
 # featured: true
 doi: "10.1109/TCYB.2021.3110813"
 links:
