@@ -7,7 +7,7 @@ keywords:
   - "Graph Neural Networks"
   - "Privacy"
 figure:
-  src: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=900&q=80"
+  src: "./GFL.png"
   alt: "Abstract network visualization"
 links:
   # - label: "Project overview"
